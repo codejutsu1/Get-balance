@@ -1,0 +1,14 @@
+/home/shiver/Documents/C#/Wellahealth/week4/bin/Debug/net8.0/week4
+/home/shiver/Documents/C#/Wellahealth/week4/bin/Debug/net8.0/week4.deps.json
+/home/shiver/Documents/C#/Wellahealth/week4/bin/Debug/net8.0/week4.runtimeconfig.json
+/home/shiver/Documents/C#/Wellahealth/week4/bin/Debug/net8.0/week4.dll
+/home/shiver/Documents/C#/Wellahealth/week4/bin/Debug/net8.0/week4.pdb
+/home/shiver/Documents/C#/Wellahealth/week4/obj/Debug/net8.0/week4.GeneratedMSBuildEditorConfig.editorconfig
+/home/shiver/Documents/C#/Wellahealth/week4/obj/Debug/net8.0/week4.AssemblyInfoInputs.cache
+/home/shiver/Documents/C#/Wellahealth/week4/obj/Debug/net8.0/week4.AssemblyInfo.cs
+/home/shiver/Documents/C#/Wellahealth/week4/obj/Debug/net8.0/week4.csproj.CoreCompileInputs.cache
+/home/shiver/Documents/C#/Wellahealth/week4/obj/Debug/net8.0/week4.dll
+/home/shiver/Documents/C#/Wellahealth/week4/obj/Debug/net8.0/refint/week4.dll
+/home/shiver/Documents/C#/Wellahealth/week4/obj/Debug/net8.0/week4.pdb
+/home/shiver/Documents/C#/Wellahealth/week4/obj/Debug/net8.0/week4.genruntimeconfig.cache
+/home/shiver/Documents/C#/Wellahealth/week4/obj/Debug/net8.0/ref/week4.dll
